@@ -18,3 +18,5 @@ if (score <= 1000) {
 } else {
   nivel = "radiante";
 }
+
+console.log(`O herói de nome ${nome} está no nivel: ${nivel}`);
